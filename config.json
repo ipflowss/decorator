@@ -1,0 +1,8 @@
+{
+  "brokerList": ["127.0.0.1:9092"],
+  "consumerTopic": "important",
+  "producerTopic": "flows",
+  "partition": 0,
+  "offsetType": -1,
+  "messageCountStart": 0
+}
